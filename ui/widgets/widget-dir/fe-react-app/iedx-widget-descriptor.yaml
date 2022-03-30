@@ -1,0 +1,6 @@
+code: iedx-app
+titles:
+  en: I-EDX mfe
+  it: I-EDX mfe
+group: free
+customUiPath: iedx-widget.ftl
